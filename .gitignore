@@ -1,0 +1,36 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.metadata
+*.log
+.DS_Store
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/google-services.json
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Laravel backend
+backend/vendor/
+backend/.env
+backend/.env.*
+backend/storage/
+backend/bootstrap/cache/*.php
+backend/public/storage
+backend/node_modules/
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
